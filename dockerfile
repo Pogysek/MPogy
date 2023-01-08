@@ -10,4 +10,4 @@ COPY . .
 
 EXPOSE 8080-8089 449
 
-CMD [ "node", "bot.js" ]
+CMD [ "node", "pogymain.js" ]
