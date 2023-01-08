@@ -1,0 +1,329 @@
+{"level":30,"time":1673092608573,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Validating config file and environment variables"}
+{"level":30,"time":1673092609888,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Loading commands..."}
+{"level":20,"time":1673092609975,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1673092609978,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1673092612268,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1673092623486,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1673092623492,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1673092623501,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1673092623511,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1673092623516,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1673092623550,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1673092623553,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1673092623559,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1673092623568,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1673092623574,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1673092623585,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1673092623588,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1673092623593,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1673092623598,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1673092623600,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1673092623604,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1673092623606,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1673092623610,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1673092623614,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1673092623632,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1673092623638,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1673092623644,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1673092623647,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1673092623649,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1673092623656,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1673092623659,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1673092623661,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1673092623664,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1673092623669,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1673092623674,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1673092623680,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1673092623688,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1673092623693,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1673092623719,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1673092623727,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1673092623730,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1673092623736,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1673092623739,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1673092623744,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1673092623753,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1673092623758,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1673092623762,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1673092623765,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1673092623767,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1673092623769,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1673092623773,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1673092623776,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1673092623780,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1673092623784,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1673092623787,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1673092623877,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 79 commands"}
+{"level":30,"time":1673092623877,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 60 slash commands"}
+{"level":30,"time":1673092623877,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Loading contexts..."}
+{"level":30,"time":1673092623883,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1673092623883,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1673092623884,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Loading events..."}
+{"level":30,"time":1673092624074,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1673092624467,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1673092624468,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Launching dashboard"}
+{"level":30,"time":1673092628041,"pid":9840,"hostname":"DESKTOP-J5GAOI5","msg":"Connecting to MongoDb..."}
+{"level":50,"time":1673092628060,"pid":9840,"hostname":"DESKTOP-J5GAOI5","err":{"type":"MongoParseError","message":"Password contains unescaped characters","stack":"MongoParseError: Password contains unescaped characters\n    at new ConnectionString (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\mongodb-connection-string-url\\lib\\index.js:115:23)\n    at parseOptions (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\mongodb\\lib\\connection_string.js:200:17)\n    at new MongoClient (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\mongodb\\lib\\mongo_client.js:45:63)\n    at C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\mongoose\\lib\\connection.js:802:16\n    at new Promise (<anonymous>)\n    at NativeConnection.Connection.openUri (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\mongoose\\lib\\connection.js:799:19)\n    at C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\mongoose\\lib\\index.js:417:10\n    at C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:41:5\n    at new Promise (<anonymous>)\n    at promiseOrCallback (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:40:10)"},"msg":"Mongoose: Failed to connect to database: Password contains unescaped characters"}
+{"level":30,"time":1673092710004,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Validating config file and environment variables"}
+{"level":30,"time":1673092710368,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Loading commands..."}
+{"level":20,"time":1673092710712,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1673092710731,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1673092711122,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1673092714970,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1673092714978,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1673092714991,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1673092715015,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1673092715022,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1673092715088,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1673092715097,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1673092715115,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1673092715127,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1673092715133,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1673092715147,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1673092715157,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1673092715163,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1673092715169,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1673092715173,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1673092715178,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1673092715182,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1673092715187,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1673092715192,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1673092715222,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1673092715232,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1673092715245,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1673092715250,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1673092715257,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1673092715275,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1673092715281,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1673092715297,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1673092715303,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1673092715319,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1673092715329,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1673092715339,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1673092715371,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1673092715382,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1673092715439,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1673092715456,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1673092715462,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1673092715482,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1673092715487,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1673092715494,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1673092715543,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1673092715559,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1673092715566,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1673092715571,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1673092715576,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1673092715582,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1673092715608,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1673092715616,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1673092715627,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1673092715630,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1673092715636,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1673092715835,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 79 commands"}
+{"level":30,"time":1673092715835,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 60 slash commands"}
+{"level":30,"time":1673092715836,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Loading contexts..."}
+{"level":30,"time":1673092715843,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1673092715843,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1673092715844,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Loading events..."}
+{"level":30,"time":1673092716157,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1673092716713,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1673092716713,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Launching dashboard"}
+{"level":30,"time":1673092717918,"pid":11136,"hostname":"DESKTOP-J5GAOI5","msg":"Connecting to MongoDb..."}
+{"level":50,"time":1673092717938,"pid":11136,"hostname":"DESKTOP-J5GAOI5","err":{"type":"MongoParseError","message":"Password contains unescaped characters","stack":"MongoParseError: Password contains unescaped characters\n    at new ConnectionString (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\mongodb-connection-string-url\\lib\\index.js:115:23)\n    at parseOptions (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\mongodb\\lib\\connection_string.js:200:17)\n    at new MongoClient (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\mongodb\\lib\\mongo_client.js:45:63)\n    at C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\mongoose\\lib\\connection.js:802:16\n    at new Promise (<anonymous>)\n    at NativeConnection.Connection.openUri (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\mongoose\\lib\\connection.js:799:19)\n    at C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\mongoose\\lib\\index.js:417:10\n    at C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:41:5\n    at new Promise (<anonymous>)\n    at promiseOrCallback (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:40:10)"},"msg":"Mongoose: Failed to connect to database: Password contains unescaped characters"}
+{"level":30,"time":1673092887515,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Validating config file and environment variables"}
+{"level":30,"time":1673092887766,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Loading commands..."}
+{"level":20,"time":1673092887889,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1673092887893,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1673092888116,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1673092891172,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1673092891177,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1673092891186,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1673092891196,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1673092891202,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1673092891245,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1673092891248,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1673092891257,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1673092891265,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1673092891270,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1673092891277,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1673092891288,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1673092891293,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1673092891297,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1673092891303,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1673092891306,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1673092891311,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1673092891314,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1673092891318,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1673092891348,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1673092891356,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1673092891365,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1673092891369,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1673092891373,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1673092891419,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1673092891421,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1673092891423,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1673092891427,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1673092891431,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1673092891436,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1673092891441,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1673092891449,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1673092891468,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1673092891491,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1673092891497,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1673092891500,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1673092891514,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1673092891516,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1673092891520,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1673092891530,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1673092891534,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1673092891538,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1673092891541,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1673092891543,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1673092891560,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1673092891564,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1673092891567,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1673092891571,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1673092891575,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1673092891578,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1673092891748,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 79 commands"}
+{"level":30,"time":1673092891748,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 60 slash commands"}
+{"level":30,"time":1673092891749,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Loading contexts..."}
+{"level":30,"time":1673092891754,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1673092891755,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1673092891755,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Loading events..."}
+{"level":30,"time":1673092892043,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1673092892441,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1673092892442,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Launching dashboard"}
+{"level":30,"time":1673092894680,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1673092895488,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1673092895606,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1673092896581,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Logged in as Pogysek#6878! (1060627337563086940)"}
+{"level":30,"time":1673092896581,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1673092896686,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1673092897242,"pid":10208,"hostname":"DESKTOP-J5GAOI5","msg":"Successfully registered interactions"}
+{"level":50,"time":1673093700981,"pid":10208,"hostname":"DESKTOP-J5GAOI5","err":{"type":"ExpectedConstraintError","message":"Invalid URL","stack":"Error: Invalid URL\n    at Object.run (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1555:27)\n    at C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:106:66\n    at Array.reduce (<anonymous>)\n    at StringValidator.parse (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:106:29)\n    at ButtonBuilder.setURL (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\@discordjs\\builders\\dist\\index.js:528:34)\n    at botInvite (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\source\\commands\\information\\slash\\bot.js:84:68)\n    at Object.interactionRun (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\source\\commands\\information\\slash\\bot.js:50:24)\n    at Object.handleSlashCommand (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\source\\handlers\\command.js:140:17)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","constraint":"s.string.url","given":"1057726856280932452","expected":"expected to match an URL"},"msg":"interactionRun: Invalid URL"}
+{"level":30,"time":1673093896653,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Validating config file and environment variables"}
+{"level":30,"time":1673093897036,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Loading commands..."}
+{"level":20,"time":1673093897154,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1673093897158,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1673093897395,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1673093899585,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1673093899593,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1673093899603,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1673093899614,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1673093899619,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1673093899662,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1673093899667,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1673093899675,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1673093899684,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1673093899690,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1673093899815,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1673093899825,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1673093899836,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1673093899841,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1673093899848,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1673093899897,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1673093899907,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1673093899915,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1673093899920,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1673093899933,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1673093899939,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1673093899944,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1673093899955,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1673093899961,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1673093899991,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1673093900002,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1673093900006,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1673093900025,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1673093900028,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1673093900033,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1673093900049,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1673093900054,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1673093900060,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1673093900065,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1673093900068,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1673093900072,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1673093900078,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1673093900083,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1673093900088,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1673093900092,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1673093900095,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1673093900227,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 88 commands"}
+{"level":30,"time":1673093900227,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 69 slash commands"}
+{"level":30,"time":1673093900228,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Loading contexts..."}
+{"level":30,"time":1673093900234,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1673093900234,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1673093900234,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Loading events..."}
+{"level":30,"time":1673093900475,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1673093901053,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1673093901053,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Launching dashboard"}
+{"level":30,"time":1673093902073,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1673093902728,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1673093902820,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1673093904020,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Logged in as Pogysek#6878! (1060627337563086940)"}
+{"level":30,"time":1673093904020,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1673093904920,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1673093905555,"pid":15712,"hostname":"DESKTOP-J5GAOI5","msg":"Successfully registered interactions"}
+{"level":50,"time":1673093956856,"pid":15712,"hostname":"DESKTOP-J5GAOI5","err":{"type":"ExpectedConstraintError","message":"Invalid URL","stack":"Error: Invalid URL\n    at Object.run (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:1555:27)\n    at C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:106:66\n    at Array.reduce (<anonymous>)\n    at StringValidator.parse (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\@sapphire\\shapeshift\\dist\\index.js:106:29)\n    at ButtonBuilder.setURL (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\node_modules\\@discordjs\\builders\\dist\\index.js:528:34)\n    at botInvite (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\source\\commands\\information\\slash\\bot.js:84:68)\n    at Object.interactionRun (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\source\\commands\\information\\slash\\bot.js:50:24)\n    at Object.handleSlashCommand (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\source\\handlers\\command.js:140:17)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async module.exports (C:\\Users\\pogyy\\OneDrive\\Desktop\\Pogyska laska na dlouhou dobu\\source\\events\\interactions\\interactionCreate.js:18:5)","constraint":"s.string.url","given":"1057726856280932452","expected":"expected to match an URL"},"msg":"interactionRun: Invalid URL"}
+{"level":30,"time":1673095135971,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Validating config file and environment variables"}
+{"level":30,"time":1673095136268,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Loading commands..."}
+{"level":20,"time":1673095136390,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1673095136394,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1673095136671,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1673095139254,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1673095139259,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1673095139269,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1673095139278,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1673095139283,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1673095139315,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1673095139317,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1673095139323,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1673095139329,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1673095139333,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1673095139387,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1673095139394,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1673095139399,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1673095139402,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1673095139406,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1673095139416,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1673095139419,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1673095139424,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1673095139426,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1673095139432,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1673095139439,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1673095139445,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1673095139456,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1673095139460,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1673095139486,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1673095139493,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1673095139496,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1673095139504,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1673095139506,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1673095139511,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1673095139520,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1673095139525,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1673095139529,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1673095139533,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1673095139537,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1673095139541,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1673095139544,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1673095139547,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1673095139553,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1673095139556,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1673095139560,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1673095139666,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 88 commands"}
+{"level":30,"time":1673095139666,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 69 slash commands"}
+{"level":30,"time":1673095139667,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Loading contexts..."}
+{"level":30,"time":1673095139672,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1673095139672,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1673095139673,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Loading events..."}
+{"level":30,"time":1673095139842,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1673095140227,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1673095140228,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Launching dashboard"}
+{"level":30,"time":1673095140924,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1673095141567,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1673095141633,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1673095142685,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Logged in as Pogysek#6878! (1060627337563086940)"}
+{"level":30,"time":1673095142686,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1673095142766,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1673095143231,"pid":1692,"hostname":"DESKTOP-J5GAOI5","msg":"Successfully registered interactions"}
