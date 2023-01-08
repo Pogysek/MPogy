@@ -241,14 +241,12 @@ async function handleTicketOpen(interaction) {
     });
 
     const embed = new EmbedBuilder()
-      .setAuthor({ name: `Ticket #${ticketNumber}` })
+      .setAuthor({ name: `Ticket #${user.toString()}` })
       .setDescription(
         `Hello ${user.toString()}
         Support will be with you shortly
         ${catName ? `\n**Category:** ${catName}` : ""}
-        `
-      )
-      .setFooter({ text: "You may close your ticket anytime by clicking the button below" });
+        `);
 
     let buttonsRow = new ActionRowBuilder().addComponents(
       new ButtonBuilder()
