@@ -203,8 +203,9 @@ async function handleTicketOpen(interaction) {
     await interaction.editReply({ content: "Processing", components: [] });
     catName = res.values[0];
     catPerms = categories.find((cat) => cat.name === catName)?.staff_roles || [];
+    catMessages = categories.find((cat) => cat.name === catName)?.messages || [];
   }
-
+ 
   try {
     const ticketNumber = (existing + 1).toString();
     const permissionOverwrites = [

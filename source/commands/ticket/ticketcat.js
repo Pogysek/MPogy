@@ -52,6 +52,12 @@ module.exports = {
             type: ApplicationCommandOptionType.String,
             required: false,
           },
+          {
+            name: "messages",
+            description: "message for ticket",
+            type: ApplicationCommandOptionType.String,
+            required: false,
+          },          
         ],
       },
       {
